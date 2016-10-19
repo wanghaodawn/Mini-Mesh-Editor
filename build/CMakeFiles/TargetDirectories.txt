@@ -1,0 +1,5 @@
+/Users/Dawn/Desktop/CG/asst2/build/src/CMakeFiles/meshedit.dir
+/Users/Dawn/Desktop/CG/asst2/build/CMU462/src/CMakeFiles/CMU462.dir
+/Users/Dawn/Desktop/CG/asst2/build/CMU462/deps/glfw/CMakeFiles/uninstall.dir
+/Users/Dawn/Desktop/CG/asst2/build/CMU462/deps/glfw/src/CMakeFiles/glfw.dir
+/Users/Dawn/Desktop/CG/asst2/build/CMU462/deps/glew/CMakeFiles/glew.dir
